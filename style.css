@@ -251,13 +251,14 @@ body {
 }
 
 .right-heading img {
-  background: var(--black);
+  background: var(--white);
   width: 36px;
   padding: 7px;
   border-radius: 17px;
   float: left;
   display: inline-block;
   margin-top: -6px;
+  border: 1px solid var(--lightgray);
 }
 
 .p2 {
